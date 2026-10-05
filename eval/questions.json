@@ -1,0 +1,22 @@
+[
+  {"q": "How much is the excess on a car damage claim?", "expected": "motor_policy#2"},
+  {"q": "Is there an extra deductible for drivers under 25?", "expected": "motor_policy#2"},
+  {"q": "Does a windscreen claim affect my no claims discount?", "expected": "motor_policy#3"},
+  {"q": "What is the maximum no claims discount?", "expected": "motor_policy#3"},
+  {"q": "How many days do I have to report a car accident?", "expected": "motor_policy#4"},
+  {"q": "Am I covered if I was drunk when the accident happened?", "expected": "motor_policy#5"},
+  {"q": "How long can I keep a courtesy car?", "expected": "motor_policy#6"},
+  {"q": "What deductible applies to hurricane damage to my house?", "expected": "home_policy#2"},
+  {"q": "What happens if my house is underinsured?", "expected": "home_policy#3"},
+  {"q": "Is theft covered if the house is empty for three months?", "expected": "home_policy#4"},
+  {"q": "Will the policy pay for a hotel if my home is uninhabitable?", "expected": "home_policy#6"},
+  {"q": "What is the grace period for late life insurance premiums?", "expected": "life_policy#3"},
+  {"q": "Can a lapsed life policy be reinstated?", "expected": "life_policy#3"},
+  {"q": "Who gets paid first under mortgage protection?", "expected": "life_policy#1"},
+  {"q": "What is the maximum age to apply for term life cover?", "expected": "life_policy#2"},
+  {"q": "Can I cancel my life policy and get my money back?", "expected": "life_policy#5"},
+  {"q": "What documents are needed for a death claim?", "expected": "life_policy#6"},
+  {"q": "Does the policy cover pet insurance for my dog?", "expected": null},
+  {"q": "What is the interest rate on my mortgage?", "expected": null},
+  {"q": "Does Harbourline offer travel insurance in Europe?", "expected": null}
+]
